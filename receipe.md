@@ -6,6 +6,19 @@ Copy this into a `recipe.md` in your project and fill it out.
 
 _Put or write the user story here. Add any clarifying notes you might have._
 
+As a user
+So that I can find my tasks among all my notes
+I want to check if a line from my notes includes the string `#TODO`.
+
+- Go through a to-do 
+- Filter the strings to only include those with '#TODO'
+- Check Boolean value return, True if includes, False if no.
+
+- Check format of input (Caps, one word)
+- Check if it includes required string
+- Check if input is strings / correct type 
+
+
 ## 2. Design the Function Signature
 
 _Include the name of the function, its parameters, return value, and side effects._
